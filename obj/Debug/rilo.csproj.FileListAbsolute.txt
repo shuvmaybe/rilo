@@ -1,0 +1,15 @@
+C:\Users\studi\source\repos\rilo\rilo\bin\Debug\rilo.exe.config
+C:\Users\studi\source\repos\rilo\rilo\bin\Debug\rilo.exe
+C:\Users\studi\source\repos\rilo\rilo\bin\Debug\rilo.pdb
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.csproj.AssemblyReference.cache
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.Form1.resources
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.Properties.Resources.resources
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.csproj.GenerateResource.cache
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.csproj.CoreCompileInputs.cache
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.exe
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.pdb
+C:\Users\studi\source\repos\rilo\rilo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\studi\source\repos\rilo\rilo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.manifest_window.resources
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.csproj.Up2Date
+C:\Users\studi\source\repos\rilo\rilo\obj\Debug\rilo.loading.resources
