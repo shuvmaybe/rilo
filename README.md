@@ -8,7 +8,7 @@
 rilo is a Windows C# Forms App that replaces any icon you can find in the Roblox Studio UI.
 
 Learn how to:
-- **[Install rilo](https://github.com/shuvmaybe/rilo/blob/main/README.md#installing-rilo)**
+- **[Install rilo](https://github.com/shuvmaybe/rilo/tree/main?tab=readme-ov-file#installing-rilo)**
 - [Create your own icon pack](https://github.com/shuvmaybe/rilo/blob/main/mds/Creating_Your_First_Theme.md)
 - [Install an existing icon pack](https://github.com/shuvmaybe/rilo/blob/main/mds/Creating_Your_First_Theme.md#installation-of-your-finished-theme)
 
