@@ -30,3 +30,5 @@ When rilo processes the JSON file, it backs up the original assets before replac
 3. Saves the downloaded file in the directory specified by the `path`, renaming it to the original file’s name (e.g., `ArrowCursor.png`).
 
 This process continues for all keys until all assets have been backed up and replaced.
+
+Then, you can view the backed up assets and the newly downloaded assets straight in Windows Explorer by just going to the path.
